@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34239689/README.md)
 [README.md](https://github.com/user-attachments/files/34239773/README.md)# Halloween Hoverthing
 
 A **remote-controlled hoverboard** pulls a **children's pram** with a **gremlin animatronic** inside. The gremlin pops up, lights up and makes noise to scare people on Halloween. Everything is powered by the hoverboard battery. It was used successfully on Halloween 2026.
